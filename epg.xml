@@ -32,100 +32,100 @@
     <display-name lang="ro">TVR 2</display-name>
     <url>http://www.cinemagia.ro</url>
   </channel>
-  <programme start="20191211000000" stop="20191211033000" channel="PRO TV">
+  <programme start="20191211070000 +0200" stop="20191211103000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
-  <programme start="20191211033000" stop="20191211060000" channel="PRO TV">
+  <programme start="20191211103000 +0200" stop="20191211130000 +0200" channel="PRO TV">
     <title lang="ro">Vorbeşte lumea</title>
     <desc lang="ro">Carisma, senzualitatea, umorul si onestitatea se intalnesc in cea mai noua emisiune de lifestyle si stiri mondene, Vorbeste lumea, din 13 iulie, numai la PRO TV. Nadine, Sore, Vica Blochina si Razvan Fodor vor prezenta fata nevazuta a lumii mondene si le(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211060000" stop="20191211070000" channel="PRO TV">
+  <programme start="20191211130000 +0200" stop="20191211140000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
-  <programme start="20191211070000" stop="20191211080000" channel="PRO TV">
+  <programme start="20191211140000 +0200" stop="20191211150000 +0200" channel="PRO TV">
     <title lang="ro">Lecţii de viaţă</title>
     <desc lang="ro">„Lecții de viață” este o emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnit(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211080000" stop="20191211100000" channel="PRO TV">
+  <programme start="20191211150000 +0200" stop="20191211170000 +0200" channel="PRO TV">
     <title lang="ro">La Maruţă</title>
     <desc lang="ro">Stăpânul aMăruţelor, pus pe şotii şi atent la tot ce se întâmplă în lumea mondenă a României, e pregătit să dea iama în showbizul autohton şi promite în fiecare zi multe exclusivităţi şi distracţie cât curpinde(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211100000" stop="20191211110000" channel="PRO TV">
+  <programme start="20191211170000 +0200" stop="20191211180000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
-  <programme start="20191211110000" stop="20191211120000" channel="PRO TV">
+  <programme start="20191211180000 +0200" stop="20191211190000 +0200" channel="PRO TV">
     <title lang="ro">Ce spun românii</title>
     <desc lang="ro">Telespectatorii sunt invitati sa se distreze alaturi de Cabral si sa afle "Ce spun romanii", de luni pana vineri, incepand cu ora 18:00, numai la Pro TV!(n)</desc>
   </programme>
-  <programme start="20191211120000" stop="20191212000000" channel="PRO TV">
+  <programme start="20191211190000 +0200" stop="20191212070000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
-  <programme start="20191211000000" stop="20191211010000" channel="Antena 1">
+  <programme start="20191211070000 +0200" stop="20191211080000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
     <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
   </programme>
-  <programme start="20191211010000" stop="20191211050000" channel="Antena 1">
+  <programme start="20191211080000 +0200" stop="20191211120000 +0200" channel="Antena 1">
     <title lang="ro">Neaţa cu Răzvan şi Dani</title>
     <desc lang="ro">De luni până vineri, timp de trei ore, pe lângă invitaţii din studio şi reţetele lui Vladut, Răzvan şi Dani găzduiesc transmisiuni in direct de la staţiile locale ale Antenei 1, în care telespectatorii sunt puşi la curent cu cele mai interesante sau haioa(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211050000" stop="20191211070000" channel="Antena 1">
+  <programme start="20191211120000 +0200" stop="20191211140000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
     <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
   </programme>
-  <programme start="20191211070000" stop="20191211090000" channel="Antena 1">
+  <programme start="20191211140000 +0200" stop="20191211160000 +0200" channel="Antena 1">
     <title lang="ro">Gazda perfectă</title>
     <desc lang="ro">Un grup de 5 oameni care nu știu nimic unul despre celălalt încearcă să demonstreze că abilitățile culinare și ospitalitatea îi recomandă pentru a fi o gazdă desăvârșită. În fiecare zi, timp de o săptămână, cei 5 vor concepe meniuri sofisticate și vor înc(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211090000" stop="20191211100000" channel="Antena 1">
+  <programme start="20191211160000 +0200" stop="20191211170000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
     <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
   </programme>
-  <programme start="20191211100000" stop="20191211115000" channel="Antena 1">
+  <programme start="20191211170000 +0200" stop="20191211185000 +0200" channel="Antena 1">
     <title lang="ro">Acces direct - cu Mirela Vaida</title>
     <desc lang="ro">O emisiune moderată de Simona Gherghe, ce reuşeşte să aducă zilnic în atenţia publicului subiecte inedite şi de actualitate(n)</desc>
   </programme>
-  <programme start="20191211115000" stop="20191211120000" channel="Antena 1">
+  <programme start="20191211185000 +0200" stop="20191211190000 +0200" channel="Antena 1">
     <title lang="ro">Ajut eu</title>
   </programme>
-  <programme start="20191211120000" stop="20191212000000" channel="Antena 1">
+  <programme start="20191211190000 +0200" stop="20191212070000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
     <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
   </programme>
-  <programme start="20191211000000" stop="20191211010000" channel="TVR 1">
+  <programme start="20191211070000 +0200" stop="20191211080000 +0200" channel="TVR 1">
     <title lang="ro">Matinal</title>
     <desc lang="ro">(I) * Sport * Meteo Prezintă: Andra Soceanu, Daniel ComanPrezentator ştiri Loredana IordacheProducători: Andreea Vişan, Ana-Maria Gheorghe Transmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211010000" stop="20191211020000" channel="TVR 1">
+  <programme start="20191211080000 +0200" stop="20191211090000 +0200" channel="TVR 1">
     <title lang="ro">Matinal</title>
     <desc lang="ro">(II) * Sport * Meteo Prezintă: Andra Soceanu, Daniel ComanPrezentator ştiri Loredana IordacheProducători: Andreea Vişan, Ana-Maria GheorgheTransmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211020000" stop="20191211030000" channel="TVR 1">
+  <programme start="20191211090000 +0200" stop="20191211100000 +0200" channel="TVR 1">
     <title lang="ro">Matinal</title>
     <desc lang="ro">(III) * Sport * Meteo Prezintă: Andra Soceanu, Daniel ComanPrezentator ştiri Loredana IordacheProducători: Andreea Vişan, Ana-Maria GheorgheTransmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211030000" stop="20191211040000" channel="TVR 1">
+  <programme start="20191211100000 +0200" stop="20191211110000 +0200" channel="TVR 1">
     <title lang="ro">Ca'n viaţă</title>
     <desc lang="ro">* Talk-showModerator Emma ZeicescuRealizator Emma Zeicescu. Producător Mihaela VerdeşTransmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211040000" stop="20191211043000" channel="TVR 1">
+  <programme start="20191211110000 +0200" stop="20191211113000 +0200" channel="TVR 1">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211043000" stop="20191211053000" channel="TVR 1">
+  <programme start="20191211113000 +0200" stop="20191211123000 +0200" channel="TVR 1">
     <title lang="ro">Yanxi, palatul suspinelor</title>
     <title lang="en">Yan xi gong lüe</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -148,34 +148,34 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211053000" stop="20191211060000" channel="TVR 1">
+  <programme start="20191211123000 +0200" stop="20191211130000 +0200" channel="TVR 1">
     <title lang="ro">Tribuna partidelor parlamentare</title>
     <desc lang="ro">Producător Elena Boda(n)</desc>
   </programme>
-  <programme start="20191211060000" stop="20191211070000" channel="TVR 1">
+  <programme start="20191211130000 +0200" stop="20191211140000 +0200" channel="TVR 1">
     <title lang="ro">1989 - decembrie roșu</title>
     <desc lang="ro">Episodul 7Producători: Cornel Mihalache, Răzvan Butaru(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211070000" stop="20191211075500" channel="TVR 1">
+  <programme start="20191211140000 +0200" stop="20191211145500 +0200" channel="TVR 1">
     <title lang="ro">Telejurnal</title>
     <desc lang="ro">Prezintă Alina StancuProducători: Cristian Petru, Anamaria PanaitTranslator mimico gestual Laura IoanaACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZ(n)</desc>
   </programme>
-  <programme start="20191211075500" stop="20191211081000" channel="TVR 1">
+  <programme start="20191211145500 +0200" stop="20191211151000 +0200" channel="TVR 1">
     <title lang="ro">Vorbeşte corect</title>
     <desc lang="ro">Jurnalist Iulia Ioaniţoaia Producători si realizatori: Radu Dănilă,  Cristina Dănilă(n)</desc>
   </programme>
-  <programme start="20191211081000" stop="20191211100000" channel="TVR 1">
+  <programme start="20191211151000 +0200" stop="20191211170000 +0200" channel="TVR 1">
     <title lang="ro">Convieţuiri</title>
     <desc lang="ro">* Prezentator Camelia Văcaru Producatori: Anca Marchidan şi Roxana AmzărTransmisiune directă + înregistrare(n)</desc>
   </programme>
-  <programme start="20191211100000" stop="20191211103500" channel="TVR 1">
+  <programme start="20191211170000 +0200" stop="20191211173500 +0200" channel="TVR 1">
     <title lang="ro">Fan/ Fun urban</title>
     <desc lang="ro">O emisiune care te scoate din monotonia cotidiana si te invita in atmosfera urbana, la evenimente care iti ofera o alta imagine a lumii si a timpului in care traim(n)</desc>
   </programme>
-  <programme start="20191211103500" stop="20191211113500" channel="TVR 1">
+  <programme start="20191211173500 +0200" stop="20191211183500 +0200" channel="TVR 1">
     <title lang="ro">Yanxi, palatul suspinelor</title>
     <title lang="en">Yan xi gong lüe</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -198,18 +198,18 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211113500" stop="20191211123000" channel="TVR 1">
+  <programme start="20191211183500 +0200" stop="20191211193000 +0200" channel="TVR 1">
     <title lang="ro">Nadine</title>
     <desc lang="ro">Jurnalişti: Florenţa Dăscălescu, Florina Constantinescu, Gina Stroian,Mihaela Căciuleanu. Reporter Oana PascaruProducător Adriana CiobanuTransmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211123000" stop="20191211124000" channel="TVR 1">
+  <programme start="20191211193000 +0200" stop="20191211194000 +0200" channel="TVR 1">
     <title lang="ro">30 de ani in 30 de episoade</title>
     <desc lang="ro">Realizatori: Gabriela Avram, Tatiana Ţarfulea, Horia Gruşcă, Marian VoicuProducător Marian Voicu(n)</desc>
   </programme>
-  <programme start="20191211124000" stop="20191212000000" channel="TVR 1">
+  <programme start="20191211194000 +0200" stop="20191212070000 +0200" channel="TVR 1">
     <title lang="ro">Sport Meteo</title>
   </programme>
-  <programme start="20191211002000" stop="20191211023000" channel="Prima TV">
+  <programme start="20191211072000 +0200" stop="20191211093000 +0200" channel="Prima TV">
     <title lang="ro">Paradisul femeilor</title>
     <title lang="en">Il paradiso delle signore</title>
     <desc lang="ro">Paradisul femeilor spune povestea unui mare magazin, un loc magic unde visele devin posibile, unde cuvântul „frumos“ este pentru toată lumea. Doamnele care lucrează în Paradisul femeilor sunt tinere, frumoase, prietenoase, zâmbitoare, invidiate de alte femei și admirate de bărbați. Pentru ele, angajarea în acest loc este o realizare, o rampă de lansare pentru a-și atinge visele. O vânzătoare, în mod special, iese în evidență față de celelalte: Teresa Iorio (Giusy Buscemi), o frumusețe… citeşte(n)</desc>
@@ -232,37 +232,37 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211023000" stop="20191211030000" channel="Prima TV">
+  <programme start="20191211093000 +0200" stop="20191211100000 +0200" channel="Prima TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211030000" stop="20191211040000" channel="Prima TV">
+  <programme start="20191211100000 +0200" stop="20191211110000 +0200" channel="Prima TV">
     <title lang="ro">Starea naţiei</title>
     <desc lang="ro">Dragoş Pătraru, gazda emisiunii „Starea Naţiei”, prezintă timp de o oră, cele mai importante evenimente ale momentului, în stilul deja cunoscut de telespectatorii săi. Echipa „Starea Naţiei” reuneşte într-un format unic toate uneltele umorului pentru a in(n)</desc>
   </programme>
-  <programme start="20191211040000" stop="20191211043000" channel="Prima TV">
+  <programme start="20191211110000 +0200" stop="20191211113000 +0200" channel="Prima TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211043000" stop="20191211050000" channel="Prima TV">
+  <programme start="20191211113000 +0200" stop="20191211120000 +0200" channel="Prima TV">
     <title lang="ro">Happy News</title>
   </programme>
-  <programme start="20191211050000" stop="20191211070000" channel="Prima TV">
+  <programme start="20191211120000 +0200" stop="20191211140000 +0200" channel="Prima TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211070000" stop="20191211073000" channel="Prima TV">
+  <programme start="20191211140000 +0200" stop="20191211143000 +0200" channel="Prima TV">
     <title lang="ro">Camera de râs</title>
     <desc lang="ro">Momente haioase adunate într-o colecție de 30 de minute(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211073000" stop="20191211080500" channel="Prima TV">
+  <programme start="20191211143000 +0200" stop="20191211150500 +0200" channel="Prima TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211080500" stop="20191211090000" channel="Prima TV">
+  <programme start="20191211150500 +0200" stop="20191211160000 +0200" channel="Prima TV">
     <title lang="ro">Focus</title>
     <desc lang="ro">Cele mai importante ştiri sunt aduse în week-end de Melania Medeleanu(n)</desc>
   </programme>
-  <programme start="20191211090000" stop="20191211110000" channel="Prima TV">
+  <programme start="20191211160000 +0200" stop="20191211180000 +0200" channel="Prima TV">
     <title lang="ro">Paradisul femeilor</title>
     <title lang="en">Il paradiso delle signore</title>
     <desc lang="ro">Paradisul femeilor spune povestea unui mare magazin, un loc magic unde visele devin posibile, unde cuvântul „frumos“ este pentru toată lumea. Doamnele care lucrează în Paradisul femeilor sunt tinere, frumoase, prietenoase, zâmbitoare, invidiate de alte femei și admirate de bărbați. Pentru ele, angajarea în acest loc este o realizare, o rampă de lansare pentru a-și atinge visele. O vânzătoare, în mod special, iese în evidență față de celelalte: Teresa Iorio (Giusy Buscemi), o frumusețe… citeşte(n)</desc>
@@ -285,11 +285,11 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211110000" stop="20191211123000" channel="Prima TV">
+  <programme start="20191211180000 +0200" stop="20191211193000 +0200" channel="Prima TV">
     <title lang="ro">Focus 18 - Starea sănătății</title>
     <desc lang="ro">La Focus 18, prezentat de luni până joi de Andreea Fried şi de vineri până duminică de Magda Vasiliu, telespectatorii pot urmări atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale(n)</desc>
   </programme>
-  <programme start="20191211123000" stop="20191212002000" channel="Prima TV">
+  <programme start="20191211193000 +0200" stop="20191212072000 +0200" channel="Prima TV">
     <title lang="ro">Trăsniți</title>
     <title lang="en">Trăsniții</title>
     <desc lang="ro">Singurul scop al soldaților din unitatea NATO a fost acela de a câștiga cât mai mulți bani din diverse misiuni, mai mult sau mai puțin oficiale. Găsiți vinovați pentru distrugerea unității care îi găzduia, soldații sunt acuzați de incompetență și dați afară din serviciul militar. Astfel, serialul va urmări destinele acestora în viața civilă, mediu complet nou pentru ei. Noutatea este dată și de faptul că acțiunea serialului va fi împărțită în două povești… citeşte(n)</desc>
@@ -312,20 +312,20 @@
       <value>IMDB: 6.4</value>
     </star-rating>
   </programme>
-  <programme start="20191211003000" stop="20191211011500" channel="Kanal D">
+  <programme start="20191211073000 +0200" stop="20191211081500 +0200" channel="Kanal D">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211011500" stop="20191211014500" channel="Kanal D">
+  <programme start="20191211081500 +0200" stop="20191211084500 +0200" channel="Kanal D">
     <title lang="ro">Pastila de râs</title>
     <desc lang="ro">Ce te faci dacă într-o zi obişnuită ţi se întâmplă ceva neobişnuit? Eşti nervos? Eşti stresat? Te-a enervat şefu/şefa? Nu îţi recomandăm antidepresive, ci mai degrabă o pastilă de râs, care nu dăunează grav sănătăţii. Se prescrie în fiecare săptămână de l(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211014500" stop="20191211021500" channel="Kanal D">
+  <programme start="20191211084500 +0200" stop="20191211091500 +0200" channel="Kanal D">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211021500" stop="20191211040000" channel="Kanal D">
+  <programme start="20191211091500 +0200" stop="20191211110000 +0200" channel="Kanal D">
     <title lang="ro">Dragoste și ură</title>
     <title lang="en">Ask Ve Mavi</title>
     <desc lang="ro">Ali (Emrah Erdoğan), in varsta de treizeci de ani, este fiul unei familii bogate. Desi se afla in inchisoare, unde isi ispaseste pedeapsa pentru uciderea lui Ahmet, Ali se indragosteste de Mavi, o tanara foarte frumoasa care l-a ajutat sa suporte captivitatea prin scrisorile pe care si le-au scris timp de doisprezece ani, atat cat a durat sentinta barbatului. In ziua eliberarii, Ali si Mavi se intalnesc pentru prima data. Cei doi tineri iau o hotarare fulger, aceea de a se casatori. Ceea ce nu stie Ali… citeşte(n)</desc>
@@ -348,60 +348,60 @@
       <value>IMDB: 4.3</value>
     </star-rating>
   </programme>
-  <programme start="20191211040000" stop="20191211050000" channel="Kanal D">
+  <programme start="20191211110000 +0200" stop="20191211120000 +0200" channel="Kanal D">
     <title lang="ro">Puterea dragostei</title>
     <desc lang="ro">7 femei si 7 barbati vor locui separat, dar isi vor putea petrece opt ore pe zi impreuna in Casa Dragostei, in afara acesteia ei neavand voie sa se intalneasca. Intrebarea pe care o genereaza reality-ul si miza acestuia transforma formatul intr-un adevara(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211050000" stop="20191211060000" channel="Kanal D">
+  <programme start="20191211120000 +0200" stop="20191211130000 +0200" channel="Kanal D">
     <title lang="ro">Știrile Kanal D</title>
     <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211060000" stop="20191211080000" channel="Kanal D">
+  <programme start="20191211130000 +0200" stop="20191211150000 +0200" channel="Kanal D">
     <title lang="ro">În căutarea adevărului</title>
     <desc lang="ro">“În căutarea adevărului” prezintă o serie de dramatizări realiste care vor aduce în atenția publicului situații pe care fiecare dintre noi le-ar putea experimenta. După ce a fost considerat un adevarat detectiv, Ernest va fi atât naratorul, cât și mediato(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211080000" stop="20191211100000" channel="Kanal D">
+  <programme start="20191211150000 +0200" stop="20191211170000 +0200" channel="Kanal D">
     <title lang="ro">Teo Show</title>
     <desc lang="ro">Cântăreţi, artiști, personalități din toate domeniile, oameni care au într-adevăr ceva de spus, vor fi invitați la întâlnirea cu publicul și cu cea mai iubită vedetă din România – Teo Trandafir(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211100000" stop="20191211120000" channel="Kanal D">
+  <programme start="20191211170000 +0200" stop="20191211190000 +0200" channel="Kanal D">
     <title lang="ro">Puterea dragostei</title>
     <desc lang="ro">7 femei si 7 barbati vor locui separat, dar isi vor putea petrece opt ore pe zi impreuna in Casa Dragostei, in afara acesteia ei neavand voie sa se intalneasca. Intrebarea pe care o genereaza reality-ul si miza acestuia transforma formatul intr-un adevara(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211120000" stop="20191212003000" channel="Kanal D">
+  <programme start="20191211190000 +0200" stop="20191212073000 +0200" channel="Kanal D">
     <title lang="ro">Știrile Kanal D</title>
     <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211011500" stop="20191211013000" channel="National TV">
+  <programme start="20191211081500 +0200" stop="20191211083000 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
     <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211013000" stop="20191211024500" channel="National TV">
+  <programme start="20191211083000 +0200" stop="20191211094500 +0200" channel="National TV">
     <title lang="ro">Miezul problemei</title>
     <desc lang="ro">Denis Ciulinaru și prof. univ. dr. Mircea Cosea dezbat în fiecare joi și vineri, de la ora 17.15, cele mai importante probleme economice, sociale și politice(n)</desc>
   </programme>
-  <programme start="20191211024500" stop="20191211034500" channel="National TV">
+  <programme start="20191211094500 +0200" stop="20191211104500 +0200" channel="National TV">
     <title lang="ro">Dragoste si ura</title>
     <title lang="en">Uttaran</title>
     <desc lang="ro">Serialul urmareste povestea a doua prietene care provin din clase sociale diferite: Ichcha, fiica unei menajere, si Tapasya, fiica unei familii instarite(n)</desc>
@@ -421,14 +421,14 @@
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211034500" stop="20191211044500" channel="National TV">
+  <programme start="20191211104500 +0200" stop="20191211114500 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
     <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211044500" stop="20191211054500" channel="National TV">
+  <programme start="20191211114500 +0200" stop="20191211124500 +0200" channel="National TV">
     <title lang="ro">Baronii</title>
     <desc lang="ro">Un sitcom despre ceva! In jurul nucleului format din membrii grupului Voua, actori, scenaristi, regizori, producatorii aduc in casele romanilor un umor cu totul neasteptat, extrem de caragialesc, speculand situatii reale ale vietii politice si sociale din Romania. Aventurile baronilor locali din Daramata, vor avea in toamna aceasta drept principal subiect de inspiratie, prima campanie electorala, In urma careia romanii vor vota uninominal. Cine pe cine sapa in politica nationala si cum se… citeşte(n)</desc>
     <credits>
@@ -444,21 +444,21 @@
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211054500" stop="20191211060000" channel="National TV">
+  <programme start="20191211124500 +0200" stop="20191211130000 +0200" channel="National TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211060000" stop="20191211061500" channel="National TV">
+  <programme start="20191211130000 +0200" stop="20191211131500 +0200" channel="National TV">
     <title lang="ro">Ştiri Naţional TV</title>
     <desc lang="ro">Jurnalele Naţional TV beneficiază de studioul modern, excelent echipat, şi de suportul unor echipe de reporteri şi redactori acoperind geografic întreaga ţară. Contactele externe, jurnalistice, permit o bună acoperire a evenimentelor internaţionale, socia(n)</desc>
   </programme>
-  <programme start="20191211061500" stop="20191211063000" channel="National TV">
+  <programme start="20191211131500 +0200" stop="20191211133000 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
     <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211063000" stop="20191211070000" channel="National TV">
+  <programme start="20191211133000 +0200" stop="20191211140000 +0200" channel="National TV">
     <title lang="ro">Baronii</title>
     <desc lang="ro">Un sitcom despre ceva! In jurul nucleului format din membrii grupului Voua, actori, scenaristi, regizori, producatorii aduc in casele romanilor un umor cu totul neasteptat, extrem de caragialesc, speculand situatii reale ale vietii politice si sociale din Romania. Aventurile baronilor locali din Daramata, vor avea in toamna aceasta drept principal subiect de inspiratie, prima campanie electorala, In urma careia romanii vor vota uninominal. Cine pe cine sapa in politica nationala si cum se… citeşte(n)</desc>
     <credits>
@@ -474,17 +474,17 @@
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211070000" stop="20191211071500" channel="National TV">
+  <programme start="20191211140000 +0200" stop="20191211141500 +0200" channel="National TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211071500" stop="20191211073000" channel="National TV">
+  <programme start="20191211141500 +0200" stop="20191211143000 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
     <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211073000" stop="20191211084500" channel="National TV">
+  <programme start="20191211143000 +0200" stop="20191211154500 +0200" channel="National TV">
     <title lang="ro">Rebelul</title>
     <title lang="en">Yeok-jeok: baek-seong-eul hom-chin do-jeok</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -505,17 +505,17 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211084500" stop="20191211090000" channel="National TV">
+  <programme start="20191211154500 +0200" stop="20191211160000 +0200" channel="National TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211090000" stop="20191211091500" channel="National TV">
+  <programme start="20191211160000 +0200" stop="20191211161500 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
     <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211091500" stop="20191211101500" channel="National TV">
+  <programme start="20191211161500 +0200" stop="20191211171500 +0200" channel="National TV">
     <title lang="ro">Destine rătăcite</title>
     <title lang="en">Sasural Simar Ka</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -537,7 +537,7 @@
       <value>IMDB: 1.0</value>
     </star-rating>
   </programme>
-  <programme start="20191211101500" stop="20191211113000" channel="National TV">
+  <programme start="20191211171500 +0200" stop="20191211183000 +0200" channel="National TV">
     <title lang="ro">Rebelul</title>
     <title lang="en">Yeok-jeok: baek-seong-eul hom-chin do-jeok</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -558,11 +558,11 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211113000" stop="20191211120000" channel="National TV">
+  <programme start="20191211183000 +0200" stop="20191211190000 +0200" channel="National TV">
     <title lang="ro">Ştiri Naţional TV</title>
     <desc lang="ro">Jurnalele Naţional TV beneficiază de studioul modern, excelent echipat, şi de suportul unor echipe de reporteri şi redactori acoperind geografic întreaga ţară. Contactele externe, jurnalistice, permit o bună acoperire a evenimentelor internaţionale, socia(n)</desc>
   </programme>
-  <programme start="20191211120000" stop="20191212011500" channel="National TV">
+  <programme start="20191211190000 +0200" stop="20191212081500 +0200" channel="National TV">
     <title lang="ro">Destine rătăcite</title>
     <title lang="en">Sasural Simar Ka</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -584,68 +584,68 @@
       <value>IMDB: 1.0</value>
     </star-rating>
   </programme>
-  <programme start="20191211004500" stop="20191211010000" channel="B1 TV">
+  <programme start="20191211074500 +0200" stop="20191211080000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211010000" stop="20191211015500" channel="B1 TV">
+  <programme start="20191211080000 +0200" stop="20191211085500 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211015500" stop="20191211020000" channel="B1 TV">
+  <programme start="20191211085500 +0200" stop="20191211090000 +0200" channel="B1 TV">
     <title lang="ro">Meteo</title>
   </programme>
-  <programme start="20191211020000" stop="20191211030000" channel="B1 TV">
+  <programme start="20191211090000 +0200" stop="20191211100000 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211030000" stop="20191211034500" channel="B1 TV">
+  <programme start="20191211100000 +0200" stop="20191211104500 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211034500" stop="20191211040000" channel="B1 TV">
+  <programme start="20191211104500 +0200" stop="20191211110000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211040000" stop="20191211044500" channel="B1 TV">
+  <programme start="20191211110000 +0200" stop="20191211114500 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211044500" stop="20191211050000" channel="B1 TV">
+  <programme start="20191211114500 +0200" stop="20191211120000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211050000" stop="20191211060000" channel="B1 TV">
+  <programme start="20191211120000 +0200" stop="20191211130000 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211060000" stop="20191211064500" channel="B1 TV">
+  <programme start="20191211130000 +0200" stop="20191211134500 +0200" channel="B1 TV">
     <title lang="ro">Talk B1</title>
     <desc lang="ro">Ştiri de ultimă oră, informaţii utile, subiecte sociale de interes imediat. Toate acestea într-o singură emisiune – “Talk B1” cu Mihai Duță - în fiecare zi, de luni până vineri, de la ora 10.15(n)</desc>
   </programme>
-  <programme start="20191211064500" stop="20191211070000" channel="B1 TV">
+  <programme start="20191211134500 +0200" stop="20191211140000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211070000" stop="20191211074500" channel="B1 TV">
+  <programme start="20191211140000 +0200" stop="20191211144500 +0200" channel="B1 TV">
     <title lang="ro">Talk B1</title>
     <desc lang="ro">Ştiri de ultimă oră, informaţii utile, subiecte sociale de interes imediat. Toate acestea într-o singură emisiune – “Talk B1” cu Mihai Duță - în fiecare zi, de luni până vineri, de la ora 10.15(n)</desc>
   </programme>
-  <programme start="20191211074500" stop="20191211080000" channel="B1 TV">
+  <programme start="20191211144500 +0200" stop="20191211150000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211080000" stop="20191211090000" channel="B1 TV">
+  <programme start="20191211150000 +0200" stop="20191211160000 +0200" channel="B1 TV">
     <title lang="ro">Știrile B1</title>
     <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată(n)</desc>
   </programme>
-  <programme start="20191211090000" stop="20191211104500" channel="B1 TV">
+  <programme start="20191211160000 +0200" stop="20191211174500 +0200" channel="B1 TV">
     <title lang="ro">Se întâmplă acum</title>
     <desc lang="ro">Emisiune de dezbateri, opinii si comentarii ale stirilor momentului, prezentată de Tudor Barbu(n)</desc>
   </programme>
-  <programme start="20191211104500" stop="20191211110000" channel="B1 TV">
+  <programme start="20191211174500 +0200" stop="20191211180000 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211110000" stop="20191212004500" channel="B1 TV">
+  <programme start="20191211180000 +0200" stop="20191212074500 +0200" channel="B1 TV">
     <title lang="ro">Buna, România</title>
     <desc lang="ro">Jurnaliștii Radu Buzăianu și Răzvan Zamfir interpretează știrile de peste zi într-o emisiune informativă, dar și distractivă(n)</desc>
   </programme>
-  <programme start="20191211000000" stop="20191211010000" channel="TVR 2">
+  <programme start="20191211070000 +0200" stop="20191211080000 +0200" channel="TVR 2">
     <title lang="ro">Iubire dincolo de timp</title>
     <title lang="en">Além do Tempo</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -668,53 +668,53 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211010000" stop="20191211020000" channel="TVR 2">
+  <programme start="20191211080000 +0200" stop="20191211090000 +0200" channel="TVR 2">
     <title lang="ro">Oanapp</title>
     <desc lang="ro">* Sezon 2 * Divertisment  Moderator: Oana MareşJurnalişti: Luiza Caravasile, Savina Bantaș, Antoanela Dececco, Cătălin HesonProducător: Ştefan Stănescu(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211020000" stop="20191211030000" channel="TVR 2">
+  <programme start="20191211090000 +0200" stop="20191211100000 +0200" channel="TVR 2">
     <title lang="ro">Documentar 360° Geo - Comerţul cu jad în triunghiul de aur</title>
     <desc lang="ro">Le commerce du jade dans le Triangle D'or, Franţa-Germania, 2014
 ,  Redactor: Corina FeleagăRealizator: J. Michael Schumacher(n)</desc>
   </programme>
-  <programme start="20191211030000" stop="20191211040000" channel="TVR 2">
+  <programme start="20191211100000 +0200" stop="20191211110000 +0200" channel="TVR 2">
     <title lang="ro">Câştigă România!</title>
     <desc lang="ro">Prezintă: Virgil IanţuRegia artistică: Larry Maronesse Producător: Diana Pascal O producţie TVR2 şi Zucchero Media(n)</desc>
   </programme>
-  <programme start="20191211040000" stop="20191211050000" channel="TVR 2">
+  <programme start="20191211110000 +0200" stop="20191211120000 +0200" channel="TVR 2">
     <title lang="ro">În direct cu viaţa</title>
     <desc lang="ro">O emisiune prezentată de Liana Stanciu!Scenarist: AImee DalbonProducator: Diana Pascal(n)</desc>
   </programme>
-  <programme start="20191211050000" stop="20191211054000" channel="TVR 2">
+  <programme start="20191211120000 +0200" stop="20191211124000 +0200" channel="TVR 2">
     <title lang="ro">Telejurnal TVR 2</title>
     <desc lang="ro">Transmisiune directăTranslator mimico-gestual Lena Dermengiu ACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZ(n)</desc>
   </programme>
-  <programme start="20191211054000" stop="20191211060000" channel="TVR 2">
+  <programme start="20191211124000 +0200" stop="20191211130000 +0200" channel="TVR 2">
     <title lang="ro">Teleshopping</title>
   </programme>
-  <programme start="20191211060000" stop="20191211063000" channel="TVR 2">
+  <programme start="20191211130000 +0200" stop="20191211133000 +0200" channel="TVR 2">
     <title lang="ro">Cultura minorităţilor</title>
     <desc lang="ro">* MozaikaŞtiri:1. Ziua Naţională a României sărbătorită de etnicii evrei-spectacol TES2. Vernisaj Pinacoteca Bucureşti-expoziţie "Gheorghe Petrascu-Reminiscentia70".3. Tripla lansare de carte la Templul Coral din capitală-"Cartea laica şi religioasă evrei(n)</desc>
   </programme>
-  <programme start="20191211063000" stop="20191211070000" channel="TVR 2">
+  <programme start="20191211133000 +0200" stop="20191211140000 +0200" channel="TVR 2">
     <title lang="ro">Cap compas</title>
     <desc lang="ro">Producator: Elena Dinu(n)</desc>
   </programme>
-  <programme start="20191211070000" stop="20191211080000" channel="TVR 2">
+  <programme start="20191211140000 +0200" stop="20191211150000 +0200" channel="TVR 2">
     <title lang="ro">Documentar 360° Geo</title>
     <desc lang="ro">Mohairul-fibră de lux (Mohair, toison de l’espoir, Franţa-Germania, 2014) * Mohairul este una dintre cele mai căutate fibre naturale deoarece este o lână rezistentă, dar şi blândă-atât pentru ochi cât şi ca tuşeu. Primul urs de pluş Teddy, fabricat de Ste(n)</desc>
   </programme>
-  <programme start="20191211080000" stop="20191211090000" channel="TVR 2">
+  <programme start="20191211150000 +0200" stop="20191211160000 +0200" channel="TVR 2">
     <title lang="ro">Oanapp</title>
     <desc lang="ro">* Sezonul 2 * DivertismentModerator: Oana MareşInvitaţi: Jurnalişti: Luiza Caravasile, Savina Bantaș, Antoanela Dececco, Cătălin HesonProducător: Ştefan StănescuTransmisiune directă(n)</desc>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20191211090000" stop="20191211100000" channel="TVR 2">
+  <programme start="20191211160000 +0200" stop="20191211170000 +0200" channel="TVR 2">
     <title lang="ro">Iubire dincolo de timp</title>
     <title lang="en">Além do Tempo</title>
     <desc lang="ro">Acest film nu are sinopsis(n)</desc>
@@ -737,21 +737,21 @@
       <value>IMDB: 8.1</value>
     </star-rating>
   </programme>
-  <programme start="20191211100000" stop="20191211104000" channel="TVR 2">
+  <programme start="20191211170000 +0200" stop="20191211174000 +0200" channel="TVR 2">
     <title lang="ro">România… în bucate</title>
     <desc lang="ro">TVR Iaşi * Pizza şi clătite cu brânză gătite la mânăstire. * Gătim la bunica în Pipirig.Jurnalist: Cătălin Blebea Producător: Cristina Murgu(n)</desc>
   </programme>
-  <programme start="20191211104000" stop="20191211114500" channel="TVR 2">
+  <programme start="20191211174000 +0200" stop="20191211184500 +0200" channel="TVR 2">
     <title lang="ro">În direct cu viaţa</title>
     <desc lang="ro">O emisiune prezentată de Liana Stanciu!Scenarist: AImee DalbonProducator: Diana PascalTransmisiune directă(n)</desc>
   </programme>
-  <programme start="20191211114500" stop="20191211120000" channel="TVR 2">
+  <programme start="20191211184500 +0200" stop="20191211190000 +0200" channel="TVR 2">
     <title lang="ro">Sport</title>
   </programme>
-  <programme start="20191211120000" stop="20191211123500" channel="TVR 2">
+  <programme start="20191211190000 +0200" stop="20191211193500 +0200" channel="TVR 2">
     <title lang="ro">Telejurnal TVR 2</title>
   </programme>
-  <programme start="20191211123500" stop="20191212000000" channel="TVR 2">
+  <programme start="20191211193500 +0200" stop="20191212070000 +0200" channel="TVR 2">
     <title lang="ro">E vremea ta</title>
     <desc lang="ro">Prezintă: Cristina Soare şi Andrei Bărbulescu E vremea ta să primești date despre timpul probabil, climă, mediu și alte domenii conexe. Vei afla informații de la specialiști, curiozități, sfaturi utile și previziuni astrologice și vei ști cum îți influenț(n)</desc>
   </programme>
